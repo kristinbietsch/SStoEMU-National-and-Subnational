@@ -1,0 +1,23 @@
+Method,Method_Num,Method_Det,CYP,VisitCYP,UserCYP
+Female Sterilization,1,Tubal Ligation (F),10,10,1
+Male Sterilization,2,Vasectomy (M),10,10,1
+IUD,3,Copper- T 380-A IUD,4.6,4.6,1
+IUD,3,LNG-IUS,4.8,4.8,1
+Implant,4,Implanon,2.5,2.5,1
+Implant,4,Jadelle,3.8,3.8,1
+Implant,4,Sino-Implant,3.2,3.2,1
+Injectable,5,Depo Provera (DMPA),0.25,0.25,1
+Injectable,5,Noristerat (NET-En),0.166666667,0.166666667,1
+Injectable,5,Lunelle,0.076923077,0.076923077,1
+Injectable,5,Sayana Press,0.25,0.25,1
+Injectable,5,Other Injectable,0.25,0.25,1
+OC Pills,6,Combined Oral (COC),0.066666667,0.25,1
+OC Pills,6,Progestin only (POP),0.083333333,0.25,1
+OC Pills,6,Other OC Pill,0.066666667,0.25,1
+Male Condom,7,Male Condom,0.008333333,0.083333333,1
+Female Condom,8,Female Condom,0.008333333,0.083333333,1
+Other Modern Methods,9,LAM,0.25,0.25,1
+Other Modern Methods,9,SDM (Standard Days),1.5,1,1
+Other Modern Methods,9,Vaginal barrier,1,1,1
+Other Modern Methods,9,Spermicides,0.008333333,0.083333333,1
+EC,10,EC,0.05,0.083333333,1

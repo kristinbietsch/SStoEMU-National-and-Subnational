@@ -1,0 +1,8 @@
+"Method","Method_Info","Method_Det","Type","Prior_Dist"
+"Sterilization","Sterilization","Tubal Ligation (F)","clients",0.5
+"Sterilization","Sterilization","Vasectomy (M)","clients",0.5
+"IUD","IUD - 10 yr","Copper- T 380-A IUD","clients",0.5
+"IUD","IUD - 5 yr","LNG-IUS","clients",0
+"Implant","Implant - 3 yr","Implanon","clients",0
+"Implant","Implant - 5 yr","Jadelle","clients",0.5
+"Implant","Implant- 4 yr","Sino-Implant","clients",1
